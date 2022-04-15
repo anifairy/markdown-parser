@@ -1,2 +1,1 @@
 []linkrighthere.com()
-[]()linkrighthere.com
