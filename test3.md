@@ -1,1 +1,2 @@
-[]()linkrighthere.com
+(fail)
+[fail]
