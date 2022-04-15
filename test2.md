@@ -1,0 +1,2 @@
+[]linkrighthere.com()
+[]()linkrighthere.com
