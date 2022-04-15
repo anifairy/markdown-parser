@@ -1,1 +1,1 @@
-[]linkrighthere.com()
+(ohno)[fail]
