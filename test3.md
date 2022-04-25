@@ -1,2 +1,1 @@
-(fail)
-[fail]
+fail (fail)
